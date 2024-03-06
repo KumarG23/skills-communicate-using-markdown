@@ -6,3 +6,5 @@
 
 I have added different size headers to the file. 
 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
